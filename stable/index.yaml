@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: 2019-06-14T16:09:14.972715859+09:00
+entries:
+  mynginxapp:
+  - apiVersion: v1
+    created: 2019-06-14T16:13:23.136748445+09:00
+    description: My Nginx Application kubernetes sample
+    digest: 84d5ff88ad4bd416364cd24d3ab7b1841f509538a3d537f3225fa3b25434a8ee
+    name: mynginxapp
+    urls:
+    - mynginxapp-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-06-14T16:13:23.133168449+09:00
