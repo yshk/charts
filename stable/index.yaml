@@ -2,11 +2,21 @@ apiVersion: v1
 entries:
   mynginxapp:
   - apiVersion: v1
-    created: 2019-06-14T16:13:23.136748445+09:00
-    description: My Nginx Application kubernetes sample
-    digest: 84d5ff88ad4bd416364cd24d3ab7b1841f509538a3d537f3225fa3b25434a8ee
+    appVersion: "1.0"
+    created: 2019-06-14T17:00:06.75882569+09:00
+    description: A Helm chart for Kubernetes
+    digest: f5cf1d38de1e721103849e843bfba85eebaf7329b9abfaa422a3d8da504c1262
+    name: mynginxapp
+    urls:
+    - mynginxapp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-06-14T17:00:06.755719679+09:00
+    description: A Helm chart for Kubernetes
+    digest: 03fd75b71b0e73229407a200b7b84e478de21176a0ed114d8013d3e40a38e889
     name: mynginxapp
     urls:
     - mynginxapp-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-14T16:13:23.133168449+09:00
+generated: 2019-06-14T17:00:06.746374332+09:00
