@@ -1,0 +1,4 @@
+apiVersion: v1
+description: My Nginx Application kubernetes sample
+name: mynginxapp
+version: 0.1.0
